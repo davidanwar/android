@@ -1,0 +1,3 @@
+class Harimau{
+  private kukuTajam;
+  }
